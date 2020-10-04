@@ -64,8 +64,6 @@ URL_IMG= "http://localhost:4001/" //root project for save image upload
     </div>
     <div class="items">
     	<h4 class="title-demo">Login</h4>
-		<img class="img-demo" src="./demo/login.png">
-		<h6>Response success Login</h6>
 		<img class="img-res" src="./demo/token.png">
 		<h6>Copy and Paste token into Headers</h6>
 		<img class="img-res" src="./demo/headers.png">
