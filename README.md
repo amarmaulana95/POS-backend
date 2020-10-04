@@ -63,8 +63,7 @@ URL_IMG= "http://localhost:4001/" //root project for save image upload
 	<img class="img-demo" src="./demo/register.png">  
     </div>
     <div class="items">
-    	<h4 class="title-demo">Login</h4>
-		<img class="img-res" src="./demo/token.png">
+    	<h4 class="title-demo">Login jwt</h4>
 		<h6>Copy and Paste token into Headers</h6>
 		<img class="img-res" src="./demo/headers.png">
     </div>
