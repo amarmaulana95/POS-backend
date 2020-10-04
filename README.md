@@ -31,7 +31,7 @@
 2. Type `npm install`
 3. Make new file **.env** in root project folder, set up first [here](#env)
 4. Turn on Web Server and MySQL can using Third-party tool like xampp, etc.
-5. Create a database post, and Import file [post.sql](database/db_pos.sql) to **phpmyadmin**
+5. Create a database post to **phpmyadmin**
 6. Open Postman desktop application or Chrome web app extension that has installed before
 7. Choose HTTP Method and enter request url.(ex. localhost:4001/api/v1)
 8. You can see all the end point [here](#end-point)
@@ -60,13 +60,10 @@ URL_IMG= "http://localhost:4001/" //root project for save image upload
 <div class="demo">
     <div class="items">
     	<h4 class="title-demo">Register</h4>
-		<img class="img-demo" src="./demo/register.png">  
+	<img class="img-demo" src="./demo/register.png">  
     </div>
     <div class="items">
-    	<h4 class="title-demo">Login</h4>
-		<img class="img-demo" src="./demo/login.png">
-		<h6>Response success Login</h6>
-		<img class="img-res" src="./demo/token.png">
+    	<h4 class="title-demo">Login jwt</h4>
 		<h6>Copy and Paste token into Headers</h6>
 		<img class="img-res" src="./demo/headers.png">
     </div>
